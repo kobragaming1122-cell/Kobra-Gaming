@@ -4,3 +4,6 @@
 .antibot on
 .welcome on
 .goodbye on
+.help
+.owner
+.status
